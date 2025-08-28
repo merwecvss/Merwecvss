@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Teknolojiler & Yeteneklerim
-- 🖥️ **Backend:** C#, .NET Core, ASP.NET MVC, Entity Framework, LINQ, SQLite / MSSQL  
+- 🖥️ **Backend:** C#, .NET Core, ASP.NET MVC, Entity Framework, SQLite / MSSQL  
 - 🎨 **Frontend:** HTML, CSS, Bootstrap, SCSS  
 - 📂 **Diğer:** CRUD işlemleri, API geliştirme, form & dosya işlemleri, arama & kategori sistemleri  
 
